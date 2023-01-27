@@ -1,6 +1,7 @@
 # provider
 
-A new Flutter project.
+Projeto para aprender a usar o provider 
+
 
 ## Getting Started
 
